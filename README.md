@@ -2,7 +2,7 @@
 
 **An Open Source AI Persona for Deep, Narrative-Based Learning**
 
-[![Use the Hosted Gem](https://img.shields.io/badge/Access-Up%20to%20Op%20Gem-blue.svg)](https://gemini.google.com/gem/1SYJwbSDhJRjByCL7-coMOI0RZl_cd3BK?usp=sharing)
+[![Use the Hosted Gem](https://img.shields.io/badge/Access-Up%20to%20Op%20Gem-blue.svg)](https://gemini.google.com/gem/1j8SmXW9PcBlf3vN_83ImV6nagxeTHay2?usp=sharing)
 [![View the Prompt](https://img.shields.io/badge/Source-View%20Persona%20Prompt-green.svg)](up%20to%20op%20instructions.txt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Contact-Telegram-blue.svg)](https://t.me/up_2_op)
@@ -49,7 +49,7 @@ You have two "paths" to choose from:
 
 The easiest way to begin your learning journey. This is a ready-to-use version of the Socratic Chronicler that I host and maintain.
 
-**[🔗 Launch the Up to Op Gem Now](https://gemini.google.com/gem/1SYJwbSDhJRjByCL7-coMOI0RZl_cd3BK?usp=sharing)**
+**[🔗 Launch the Up to Op Gem Now](https://gemini.google.com/gem/1j8SmXW9PcBlf3vN_83ImV6nagxeTHay2?usp=sharing)**
 
 *(By using this link, you will always have the most updated version of the persona as I continue to refine it.)*
 
